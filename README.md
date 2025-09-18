@@ -83,7 +83,7 @@ The dataset used in this project is titled "**Temperature, Emissions & Environme
 
 For a detailed explanation of the project's methodology, in-depth analysis, and conclusions, please refer to the official project report:
 
-[Visualizing Global Temperature and Environmental Trends.pdf](Visualizing%20Global%20Temperature%20and%20Environmental%20Trends.pdf)
+[Visualizing Global Temperature and Environmental Trends.pdf](07-visualizing-time-series-dataset-global-temp_data/Visualizing%20Global%20Temperature%20and%20Environmental%20Trends.pdf)
 
 ## 🤝 Contributing
 
@@ -93,4 +93,5 @@ Feel free to fork this repository, explore the code, and suggest improvements. A
 
 
 For any questions or collaborations, please reach out- [linkedin](https://www.linkedin.com/in/dasaheli14) & [Email](https://dasaheli14@gmail.com).
+
 
