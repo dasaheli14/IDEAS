@@ -91,4 +91,5 @@ Feel free to fork this repository, explore the code, and suggest improvements. A
 
 ## 📧 Contact
 
-For any questions or collaborations, please reach out to Samyabrata Roy.
+
+For any questions or collaborations, please reach out- [linkedin](www.linkedin.com/in/dasaheli14) & [Email](dasaheli14@gmail.com).
