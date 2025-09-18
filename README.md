@@ -58,7 +58,7 @@ To run the project locally, ensure you have Python installed (preferably Python 
 
 A short 2-minute video demonstrating the working notebook and its key visualizations can be found here:
 
-[Link to your 2-minute demo video] *(Please insert your video link here)*
+[Visualizing Global Temperature Trends.mp4] (07-visualizing-time-series-dataset-global-temp_data/Visualizing Global Temperature Trends.mp4)
 
 ## 📚 About the Dataset
 
@@ -93,5 +93,6 @@ Feel free to fork this repository, explore the code, and suggest improvements. A
 
 
 For any questions or collaborations, please reach out- [linkedin](https://www.linkedin.com/in/dasaheli14) & [Email](https://dasaheli14@gmail.com).
+
 
 
